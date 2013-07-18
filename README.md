@@ -1,6 +1,6 @@
 tpconjunto
 ==========
 
-tp algoritmos I y cs II
+TP Algoritmos I y Cs de la Computacion II
 
-facultad de Cs Exactas UNICEN - Argentina
+Facultad de Cs Exactas UNICEN - Argentina
